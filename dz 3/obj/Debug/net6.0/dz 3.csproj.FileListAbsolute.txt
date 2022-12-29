@@ -1,0 +1,15 @@
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\bin\Debug\net6.0\dz 3.exe
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\bin\Debug\net6.0\dz 3.deps.json
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\bin\Debug\net6.0\dz 3.runtimeconfig.json
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\bin\Debug\net6.0\dz 3.dll
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\bin\Debug\net6.0\dz 3.pdb
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.csproj.AssemblyReference.cache
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.AssemblyInfoInputs.cache
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.AssemblyInfo.cs
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.dll
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\refint\dz 3.dll
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.pdb
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\dz 3.genruntimeconfig.cache
+C:\Users\Vitalik\Desktop\DZ 7 c#\dz 3\obj\Debug\net6.0\ref\dz 3.dll
